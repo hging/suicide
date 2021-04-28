@@ -1,0 +1,11 @@
+[package]
+authors     = ["Xavier Lau <hi@xavier.zone>"]
+description = "Xavier's suicide plan"
+edition     = "2018"
+homepage    = "https://xavier.zone"
+license     = "MIT"
+name        = "suicide"
+repository  = "https://github.com/AurevoirXavier/suicide"
+version     = "0.1.0"
+
+[dependencies]
